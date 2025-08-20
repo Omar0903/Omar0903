@@ -5,7 +5,7 @@
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=3126bhszqiuc3tikm2u2sz6npelu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/3126bhszqiuc3tikm2u2sz6npelu)
 
 </details>
 <h1>Omar Ibrahim </h1>
